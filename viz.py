@@ -51,5 +51,6 @@ def visualization(data, column, lower_limit=None, upper_limit=None):
     except Exception:
         pass
 
+    plt.title(f"{column}")
     plt.tight_layout()
     plt.show()
