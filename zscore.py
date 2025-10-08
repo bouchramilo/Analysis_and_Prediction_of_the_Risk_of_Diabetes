@@ -61,6 +61,6 @@ def detect_remote_outliers_z_score(data, column, seuil=3):
     print(f"La distribution des {column} avec les bornes sup/inf :")
     visualization(df_analyser, column, inf_limit, sup_limit) 
     
-    return df_analyser, outliers, inf_limit, sup_limit 
+    return df_analyser, n_outliers, outliers, inf_limit, sup_limit 
     
     
