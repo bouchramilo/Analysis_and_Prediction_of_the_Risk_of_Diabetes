@@ -105,7 +105,7 @@ cd Analysis_and_Prediction_of_the_Risk_of_Diabetes
 streamlit run client.py
 ```
 ***
-Tankt you 😊
+Thank you 😊
 
 
 
