@@ -92,7 +92,6 @@ Les variables principales étudiées sont :
 ---
 
 ## ⚙️ Installation et exécution
-## ⚙️ Installation et exécution
 
 ### 1. Cloner le dépôt
 ```bash
